@@ -7,3 +7,7 @@ let character = 'Hello';
 //Then, click the "Console" button to view the JavaScript console.
 
 console.log(character);
+
+//Step 5 - After your console.log, assign the value "World" to your character variable.
+
+character = "World";
