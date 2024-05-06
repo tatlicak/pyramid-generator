@@ -15,3 +15,7 @@ character = "World";
 //Step 6 - Now log your character variable to the console again.
 
 console.log(character);
+
+//Step 7 - Use camel case to declare a new secondCharacter variable.
+
+let secondCharacter;
