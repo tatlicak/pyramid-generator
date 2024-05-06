@@ -11,3 +11,7 @@ console.log(character);
 //Step 5 - After your console.log, assign the value "World" to your character variable.
 
 character = "World";
+
+//Step 6 - Now log your character variable to the console again.
+
+console.log(character);
