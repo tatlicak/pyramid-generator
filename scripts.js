@@ -20,11 +20,14 @@ console.log(character);
 
 let secondCharacter;
 
-//Step 9 - Assign the string "Test" to your secondCharacter variable below your declaration. 
-//Open the console to see how your log has changed.
+/*Step 9 - Assign the string "Test" to your secondCharacter variable below your declaration. 
+Open the console to see how your log has changed.
 
-secondCharacter = "Test";
+secondCharacter = "Test"; */
+
+secondCharacter = character;
 
 //Step 8 - Add a console.log() to see what the value of your secondCharacter variable is.
 
 console.log(secondCharacter);
+
