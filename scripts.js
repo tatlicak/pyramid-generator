@@ -19,3 +19,12 @@ console.log(character);
 //Step 7 - Use camel case to declare a new secondCharacter variable.
 
 let secondCharacter;
+
+//Step 9 - Assign the string "Test" to your secondCharacter variable below your declaration. 
+//Open the console to see how your log has changed.
+
+secondCharacter = "Test";
+
+//Step 8 - Add a console.log() to see what the value of your secondCharacter variable is.
+
+console.log(secondCharacter);
