@@ -30,4 +30,6 @@ secondCharacter = "Test"; */
 //Step 8 - Add a console.log() to see what the value of your secondCharacter variable is.
 
 
+//Step 12 - Use let to declare a count variable.
+let count = 8;
 
