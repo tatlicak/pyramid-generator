@@ -33,3 +33,6 @@ secondCharacter = "Test"; */
 //Step 12 - Use let to declare a count variable.
 let count = 8;
 
+//Step 13 - Try printing count + 1 to the console.
+
+console.log(count+1);
