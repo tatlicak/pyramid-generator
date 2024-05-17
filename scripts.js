@@ -38,3 +38,7 @@ let count = 8;
 //console.log(count+1);
 
 //Step 14 - When you are ready to move on, remove the console.log.
+
+//Step 15 - Declare a rows variable and assign it an empty array.
+
+let rows = [];
