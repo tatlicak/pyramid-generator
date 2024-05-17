@@ -40,5 +40,10 @@ let count = 8;
 //Step 14 - When you are ready to move on, remove the console.log.
 
 //Step 15 - Declare a rows variable and assign it an empty array.
+// let rows = [];
 
-let rows = [];
+
+//Step 16 - Change your rows declaration to be an array with the strings "Naomi", "Quincy", and "CamperChan".
+
+let rows = ["Naomi", "Quincy","CamperChan"];
+
