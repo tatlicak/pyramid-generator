@@ -35,4 +35,6 @@ let count = 8;
 
 //Step 13 - Try printing count + 1 to the console.
 
-console.log(count+1);
+//console.log(count+1);
+
+
