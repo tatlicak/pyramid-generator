@@ -49,5 +49,7 @@ let rows = ["Naomi", "Quincy","CamperChan"];
 
 //Step 17 - Use console.log and bracket notation to print the first value in your rows array.
 
-console.log(rows[0]);
+//Step 25
+rows.push("freeCodeCamp");
+console.log(rows);
 
