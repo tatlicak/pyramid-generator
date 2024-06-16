@@ -51,5 +51,9 @@ let rows = ["Naomi", "Quincy","CamperChan"];
 
 //Step 25
 rows.push("freeCodeCamp");
+
+let popped = rows.pop();
+console.log(popped);
+
 console.log(rows);
 
